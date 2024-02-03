@@ -59,7 +59,7 @@ function Works() {
               <li className="works_modal-work">
                 <i className="uil uil-check-circle works_modal-icon">
                   <p className="works_modal-info">
-                    Easy to use
+                  https://github.com/Kavyaalungal/blog_2.git
                   </p>
                 </i>
               </li>
@@ -111,7 +111,7 @@ function Works() {
               <li className="works_modal-work">
                 <i className="uil uil-check-circle works_modal-icon">
                   <p className="works_modal-info">
-                    Easy to use
+                   https://github.com/Kavyaalungal/MyProject.git
                   </p>
                 </i>
               </li>
@@ -122,7 +122,7 @@ function Works() {
       <div className="works_content">
         <div>
           <i className='uil uil-web-grid works_icon'></i>
-          <h3 className='works_title'>Himalaya<br />site</h3>
+          <h3 className='works_title'>Spotify<br />clone</h3>
         </div>
         
 
@@ -131,7 +131,7 @@ function Works() {
         <div className={toggleState ===  3 ? "works_modal active-modal" : "works_modal"}>
           <div className="works_modal-content">
             <i onClick={() => toggleTab(0)} className='uil uil-times works_modal-close'></i>
-            <h3 className='works_modal-title'>Himalaya Site</h3>
+            <h3 className='works_modal-title'>Spotify clone</h3>
             <p className='works_modal-description'>
 
             Curated a diverse portfolio of projects, 
@@ -163,7 +163,7 @@ function Works() {
               <li className="works_modal-work">
                 <i className="uil uil-check-circle works_modal-icon">
                   <p className="works_modal-info">
-                    Easy to use
+                    https://github.com/Kavyaalungal/spotify.git
                   </p>
                 </i>
               </li>
